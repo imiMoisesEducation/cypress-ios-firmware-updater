@@ -1,0 +1,13 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': '/Users/venta/Desktop/CyUpdaterIos/CyUpdaterIos/Example/build/Debug-iphoneos/CyUpdaterIos/CyUpdaterIos.framework/Modules'
+    'contents': [{
+      'type': 'file',
+      'name': 'module.modulemap',
+      'external-contents': '/Users/venta/Desktop/CyUpdaterIos/CyUpdaterIos/Example/build/Pods.build/Debug-iphoneos/CyUpdaterIos.build/unextended-module.modulemap',
+    }]
+  }]
+}

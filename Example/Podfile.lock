@@ -1,0 +1,16 @@
+PODS:
+  - CyUpdaterIos (0.1.0)
+
+DEPENDENCIES:
+  - CyUpdaterIos (from `../`)
+
+EXTERNAL SOURCES:
+  CyUpdaterIos:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CyUpdaterIos: 8e154e7232be176a8091a0ff2e12e2a569ee3c79
+
+PODFILE CHECKSUM: f3f9818d0c89e14b8d6e7944f098fa2d0b397f91
+
+COCOAPODS: 1.5.2

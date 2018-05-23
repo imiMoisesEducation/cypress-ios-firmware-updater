@@ -1,0 +1,6 @@
+use_frameworks!
+target 'CyUpdaterIos_Tests' do
+  pod 'CyUpdaterIos', :path => '../'
+  
+  
+end

@@ -1,0 +1,10 @@
+framework module CyUpdaterIos {
+  umbrella header "CyUpdaterIos-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module CyUpdaterIos.__Swift {
+    exclude header "CyUpdaterIos-Swift.h"
+}

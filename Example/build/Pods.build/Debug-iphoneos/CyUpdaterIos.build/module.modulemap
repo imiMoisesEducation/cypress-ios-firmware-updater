@@ -1,0 +1,11 @@
+framework module CyUpdaterIos {
+  umbrella header "CyUpdaterIos-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module CyUpdaterIos.Swift {
+    header "CyUpdaterIos-Swift.h"
+    requires objc
+}

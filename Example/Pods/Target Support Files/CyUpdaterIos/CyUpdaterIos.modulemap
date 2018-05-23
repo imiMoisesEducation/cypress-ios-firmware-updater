@@ -1,0 +1,6 @@
+framework module CyUpdaterIos {
+  umbrella header "CyUpdaterIos-umbrella.h"
+
+  export *
+  module * { export * }
+}

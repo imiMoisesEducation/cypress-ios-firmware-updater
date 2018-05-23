@@ -1,0 +1,22 @@
+{
+  "name": "CyUpdaterIos",
+  "version": "0.1.0",
+  "summary": "A short description of CyUpdaterIos.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/imiMoisesEducation/CyUpdaterIos",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "imiMoisesEducation": "imimoises@zoho.com"
+  },
+  "source": {
+    "git": "https://github.com/imiMoisesEducation/CyUpdaterIos.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "CyUpdaterIos/Classes/**/*"
+}
